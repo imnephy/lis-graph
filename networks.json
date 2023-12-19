@@ -3,6 +3,9 @@
     "NGOLisFactory": {
       "address": "0xa5B35952574827586E337B4a52613c7fA484ba03",
       "startBlock": 10234543
+    },
+    "Contract": {
+      "address": "0x20A7576488A800789c9Dc319F7C345864E8756f6"
     }
   }
 }
